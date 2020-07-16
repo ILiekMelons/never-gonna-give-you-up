@@ -1,0 +1,19 @@
+{
+
+	"name":"never-gonna-give-you-up",	"version":"1.0.0",
+
+	"description":"heroku app using node.js that rick rolls people",
+
+	"main":"server.js",
+
+	"scripts":{
+
+		"test":"echo \"Error: no test specified\" && exit 1"
+
+	},
+
+	"author":"ILiekMelons",
+
+	"license":"WTFPL"
+
+}
